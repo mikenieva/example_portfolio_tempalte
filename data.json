@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "Hola, soy Mike Nieva",
+    "subtitle": "Desarrollo sitios web y escribo artículos sobre programación."
+  },
+  "about": {
+    "title": "Acerca de mí",
+    "text": "Ing. Redes Inteligentes y Ciberseguridad enfocada en el diseño y desarrollo de sitios web. Apasionada del arte y la tecnología, continuamente estoy aprendiendo. Me interesa el diseño gráfico y diseño UI/UX, por lo que cada uno de mis proyectos Front-End es estético y funcional."
+  },
+  "skills": {
+    "title": "HABILIDADES",
+    "codeSoftware": [
+      { "name": "HTML5", "icon": "imagenes/icons/html5.png" },
+      { "name": "CSS3", "icon": "imagenes/icons/css3.png" },
+      { "name": "GITHUB", "icon": "imagenes/icons/github.png" },
+      { "name": "FIGMA", "icon": "imagenes/icons/figma.png" },
+      { "name": "ILLUSTRATOR", "icon": "imagenes/icons/ai.png" },
+      { "name": "PHOTOSHOP", "icon": "imagenes/icons/ps.png" }
+    ],
+    "aptitudes": [
+      { "name": "Creatividad", "icon": "fa-solid fa-palette" },
+      { "name": "Comunicación", "icon": "fa-solid fa-comment" },
+      { "name": "Honestidad", "icon": "fa-solid fa-heart" },
+      { "name": "Proactividad", "icon": "fa-solid fa-bolt" },
+      { "name": "Responsabilidad", "icon": "fa-solid fa-medal" },
+      { "name": "Trabajo en equipo", "icon": "fa-solid fa-users" }
+    ]
+  },
+  "projects": [
+    {
+      "id": "roblox-1",
+      "name": "Juego en Roblox de Mario",
+      "img": "http://.."
+    },
+    {
+      "id": "roblox-1",
+      "name": "Juego en Roblox de Mario",
+      "img": "http://.."
+    },
+    {
+      "id": "roblox-1",
+      "name": "Juego en Roblox de Mario",
+      "img": "http://.."
+    }
+  ]
+}
